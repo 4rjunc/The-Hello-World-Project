@@ -7,3 +7,7 @@
 ```bash
 Hello World
 ```
+This repository is a collection of Programs written in different Programming Languages which prints "Hello World"
+
+##Programming Laguages Covered
+![python]("https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa")
