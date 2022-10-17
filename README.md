@@ -11,4 +11,4 @@ This repository is a collection of Programs written in different Programming Lan
 
 ##Programming Laguages Covered
 
-![python](https://img.shields.io/static/v1?message=python&color=green)
+![python](https://img.shields.io/static/v1?label=<LABEL>&message=python&color=green)
