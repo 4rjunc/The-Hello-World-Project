@@ -12,4 +12,4 @@ This repository is a collection of Programs written in different Programming Lan
 ##Programming Laguages Covered
 
 ![python](https://img.shields.io/static/v1?label=1&message=Python&color=green)
-![C](https://img.shields.io/static/v1?C-grey)
+![C](https://img.shields.io/badge/C-grey)
