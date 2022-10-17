@@ -10,4 +10,5 @@ Hello World
 This repository is a collection of Programs written in different Programming Languages which prints "Hello World"
 
 ##Programming Laguages Covered
-![python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+
+![python](https://img.shields.io/github/pipenv/locked/python-version/H4K3R13/The-Hello-World-Project)
