@@ -11,4 +11,4 @@ This repository is a collection of Programs written in different Programming Lan
 
 ##Programming Laguages Covered
 
-![python](https://img.shields.io/github/pipenv/locked/python-version/H4K3R13/The-Hello-World-Project)
+![python](https://img.shields.io/static/v1?label=python&message=python&color=green)
