@@ -9,7 +9,7 @@ Hello World
 ```
 This repository is a collection of Programs written in different Programming Languages which prints "Hello World"
 
--Programming Laguages Covered
+#Programming Laguages Covered
 
 ![Python](https://img.shields.io/badge/Python-green)
 ![C](https://img.shields.io/badge/C-grey)
