@@ -16,3 +16,4 @@ This repository is a collection of Programs written in different Programming Lan
 ![C++](https://img.shields.io/badge/C++-grey)
 ![Java](https://img.shields.io/badge/Java-red)
 ![JS](https://img.shields.io/badge/JavaScript-yellow)
+![APL](https://img.shields.io/badge/APL-green)
