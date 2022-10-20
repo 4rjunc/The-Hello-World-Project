@@ -5,7 +5,7 @@
 </p>
 
 ```bash
-HELLO WORLD
+Hello World
 ```
 🔴This repository is a collection of Programs written in different Programming Languages which prints "Hello World"
 
