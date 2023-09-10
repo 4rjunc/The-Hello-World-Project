@@ -22,4 +22,6 @@ Hello World
 - ![Java](https://img.shields.io/badge/Java-red)
 - ![JS](https://img.shields.io/badge/JavaScript-yellow)
 - ![APL](https://img.shields.io/badge/APL-green)
-<!--  https://medium.com/web-development-zone/a-complete-list-of-computer-programming-languages-1d8bc5a891f  --->
+<!--  https://medium.com/web-development-zone/a-complete-list-of-computer-programming-languages-1d8bc5a891f 
+
+https://programminglanguages.co/?paradigms=&typing_disciplines=&operating_systems=&popularity= --->
