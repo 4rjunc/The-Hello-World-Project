@@ -3,9 +3,6 @@ We welcome contributions from developers to expand this collection. Here are the
 - You can visit **issues** to see the language to be added. If the language is not mentioned you can do a MR on the language of your wish 
 - When adding a new program file, name it following the convention `HelloWorld.extension`. For example, for a JavaScript file, the name should be `HelloWorld.js`.
 
-- Also Update the `README.md` by adding the badge, For example, if ".js" file is added, add the badge like
- - `![js](https://img.shields.io/badge/js-yello)`
-
 ## Follow these steps to contribute:
 - **Fork this repository**: Click the "Fork" button in the top right of this page to create a copy of this repository in your GitHub account.
 
