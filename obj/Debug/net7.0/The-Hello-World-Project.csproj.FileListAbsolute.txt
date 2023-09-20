@@ -1,0 +1,14 @@
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\bin\Debug\net7.0\The-Hello-World-Project.exe
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\bin\Debug\net7.0\The-Hello-World-Project.deps.json
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\bin\Debug\net7.0\The-Hello-World-Project.runtimeconfig.json
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\bin\Debug\net7.0\The-Hello-World-Project.dll
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\bin\Debug\net7.0\The-Hello-World-Project.pdb
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\obj\Debug\net7.0\The-Hello-World-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\obj\Debug\net7.0\The-Hello-World-Project.AssemblyInfoInputs.cache
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\obj\Debug\net7.0\The-Hello-World-Project.AssemblyInfo.cs
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\obj\Debug\net7.0\The-Hello-World-Project.csproj.CoreCompileInputs.cache
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\obj\Debug\net7.0\The-Hello-World-Project.dll
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\obj\Debug\net7.0\refint\The-Hello-World-Project.dll
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\obj\Debug\net7.0\The-Hello-World-Project.pdb
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\obj\Debug\net7.0\The-Hello-World-Project.genruntimeconfig.cache
+C:\Users\Amezaiku\Documents\GitHub\The-Hello-World-Project\obj\Debug\net7.0\ref\The-Hello-World-Project.dll
