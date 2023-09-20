@@ -12,7 +12,7 @@ This repository serves as a fun and educational resource to showcase the simplic
 
 
 ## 💻Programming Languages Covered
-![Python](https://img.shields.io/badge/Python-green) ![C](https://img.shields.io/badge/C-grey) ![C++](https://img.shields.io/badge/C++-grey) ![Java](https://img.shields.io/badge/Java-red) ![JS](https://img.shields.io/badge/JavaScript-yellow) ![APL](https://img.shields.io/badge/APL-green) ![PHP](https://img.shields.io/badge/PHP-purple) ![kt](https://img.shields.io/badge/Kotlin-orange) ![GO](https://img.shields.io/badge/GO-Blue) ![Ruby](https://img.shields.io/badge/Ruby-red) ![LISP](https://img.shields.io/badge/LISP-blue) ![Rust](https://img.shields.io/badge/Rust-red)
+![Python](https://img.shields.io/badge/Python-green) ![C](https://img.shields.io/badge/C-grey) ![C++](https://img.shields.io/badge/C++-grey) ![Java](https://img.shields.io/badge/Java-red) ![JS](https://img.shields.io/badge/JavaScript-yellow) ![APL](https://img.shields.io/badge/APL-green) ![PHP](https://img.shields.io/badge/PHP-purple) ![kt](https://img.shields.io/badge/Kotlin-orange) ![GO](https://img.shields.io/badge/GO-Blue) ![Ruby](https://img.shields.io/badge/Ruby-red) ![LISP](https://img.shields.io/badge/LISP-blue) ![Rust](https://img.shields.io/badge/Rust-red) ![js](https://img.shields.io/badge/CSharp-purple)
 
 
 
