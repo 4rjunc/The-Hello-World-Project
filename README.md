@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/H4K3R13/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=;Hello%20World;Programs&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
-[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
+![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
 Welcome to **The Hello World Project**, a repository dedicated to collecting "Hello World" programs written in various programming languages.
 
