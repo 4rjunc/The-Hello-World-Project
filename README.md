@@ -5,7 +5,7 @@
 </p>
 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
-[![All Contributors](https://img.shields.io/github/all-contributors/H4K3R13/The-Hello-World-Project?color=ee8449&style=flat-square)](#contributors)
+<!-- [![All Contributors](https://img.shields.io/github/all-contributors/H4K3R13/The-Hello-World-Project?color=ee8449&style=flat-square)](#contributors) -->
 
 Welcome to **The Hello World Project**, a repository dedicated to collecting "Hello World" programs written in various programming languages.
 
