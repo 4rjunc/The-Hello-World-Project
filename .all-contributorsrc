@@ -1,5 +1,21 @@
 {
   "projectName": "The-Hello-World-Project",
-  "projectOwner": "H4K3R13"
+  "projectOwner": "H4K3R13",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "4K4SHH",
+      "name": "Akash H",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81566150?v=4",
+      "profile": "https://github.com/4K4SHH",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
 }
-  
