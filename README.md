@@ -26,7 +26,7 @@ This repository serves as a fun and educational resource to showcase the simplic
 
 
 Read [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on contributing.
-Let's make this collection rich with HelloWorld programs in various programming languages! 🌍💻
+Let's make this collection rich with HelloWorld programs in various programming languageS! 🌍💻
 
 ## Contributors
 
@@ -39,3 +39,5 @@ Let's make this collection rich with HelloWorld programs in various programming 
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+
+as
