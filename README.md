@@ -37,6 +37,7 @@ Let's make this collection rich with HelloWorld programs in various programming 
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/4K4SHH"><img src="https://avatars.githubusercontent.com/u/81566150?v=4?s=100" width="100px;" alt="Akash H"/><br /><sub><b>Akash H</b></sub></a><br /><a href="#code-4K4SHH" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Shashank727663"><img src="https://avatars.githubusercontent.com/u/78855878?v=4?s=100" width="100px;" alt="shashank krishu"/><br /><sub><b>shashank krishu</b></sub></a><br /><a href="#code-Shashank727663" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
