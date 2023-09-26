@@ -41,6 +41,7 @@ Let's make this collection rich with HelloWorld programs in various programming 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/NANDANA-S-P"><img src="https://avatars.githubusercontent.com/u/79624565?v=4?s=100" width="100px;" alt="NANDANA-S-P"/><br /><sub><b>NANDANA-S-P</b></sub></a><br /><a href="#code-NANDANA-S-P" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://mulitu.me/"><img src="https://avatars.githubusercontent.com/u/37964707?v=4?s=100" width="100px;" alt="Morris Mulitu"/><br /><sub><b>Morris Mulitu</b></sub></a><br /><a href="#code-MorrisMuuoMulitu" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/DrKaoliN"><img src="https://avatars.githubusercontent.com/u/1685316?v=4?s=100" width="100px;" alt="Mihail Mihalache"/><br /><sub><b>Mihail Mihalache</b></sub></a><br /><a href="#code-DrKaoliN" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://rushikeshshelar.github.io/Personal-Portfolio"><img src="https://avatars.githubusercontent.com/u/112684561?v=4?s=100" width="100px;" alt="Rushikesh Shelar"/><br /><sub><b>Rushikesh Shelar</b></sub></a><br /><a href="#code-RushikeshShelar" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
