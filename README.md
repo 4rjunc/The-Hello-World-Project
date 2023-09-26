@@ -39,6 +39,7 @@ Let's make this collection rich with HelloWorld programs in various programming 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/4K4SHH"><img src="https://avatars.githubusercontent.com/u/81566150?v=4?s=100" width="100px;" alt="Akash H"/><br /><sub><b>Akash H</b></sub></a><br /><a href="#code-4K4SHH" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Shashank727663"><img src="https://avatars.githubusercontent.com/u/78855878?v=4?s=100" width="100px;" alt="shashank krishu"/><br /><sub><b>shashank krishu</b></sub></a><br /><a href="#code-Shashank727663" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/NANDANA-S-P"><img src="https://avatars.githubusercontent.com/u/79624565?v=4?s=100" width="100px;" alt="NANDANA-S-P"/><br /><sub><b>NANDANA-S-P</b></sub></a><br /><a href="#code-NANDANA-S-P" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://mulitu.me/"><img src="https://avatars.githubusercontent.com/u/37964707?v=4?s=100" width="100px;" alt="Morris Mulitu"/><br /><sub><b>Morris Mulitu</b></sub></a><br /><a href="#code-MorrisMuuoMulitu" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
