@@ -55,6 +55,7 @@ Let's make this collection rich with HelloWorld programs in various programming 
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rocky-MPN"><img src="https://avatars.githubusercontent.com/u/78936592?v=4?s=100" width="100px;" alt="Rocky"/><br /><sub><b>Rocky</b></sub></a><br /><a href="#code-Rocky-MPN" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/adixoo"><img src="https://avatars.githubusercontent.com/u/124980341?v=4?s=100" width="100px;" alt="Aditya Kumar"/><br /><sub><b>Aditya Kumar</b></sub></a><br /><a href="#code-adixoo" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
