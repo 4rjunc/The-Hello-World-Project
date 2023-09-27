@@ -57,6 +57,7 @@ Let's make this collection rich with HelloWorld programs in various programming 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rocky-MPN"><img src="https://avatars.githubusercontent.com/u/78936592?v=4?s=100" width="100px;" alt="Rocky"/><br /><sub><b>Rocky</b></sub></a><br /><a href="#code-Rocky-MPN" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/adixoo"><img src="https://avatars.githubusercontent.com/u/124980341?v=4?s=100" width="100px;" alt="Aditya Kumar"/><br /><sub><b>Aditya Kumar</b></sub></a><br /><a href="#code-adixoo" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Kbpatel3"><img src="https://avatars.githubusercontent.com/u/116056373?v=4?s=100" width="100px;" alt="Kaushal Patel"/><br /><sub><b>Kaushal Patel</b></sub></a><br /><a href="#code-Kbpatel3" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DheerajShrivastav"><img src="https://avatars.githubusercontent.com/u/106469682?v=4?s=100" width="100px;" alt="Dheeraj Shrivastav"/><br /><sub><b>Dheeraj Shrivastav</b></sub></a><br /><a href="#code-DheerajShrivastav" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
