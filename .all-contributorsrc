@@ -1,0 +1,174 @@
+{
+  "projectName": "The-Hello-World-Project",
+  "projectOwner": "H4K3R13",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "4K4SHH",
+      "name": "Akash H",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81566150?v=4",
+      "profile": "https://github.com/4K4SHH",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Shashank727663",
+      "name": "shashank krishu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78855878?v=4",
+      "profile": "https://github.com/Shashank727663",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "NANDANA-S-P",
+      "name": "NANDANA-S-P",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79624565?v=4",
+      "profile": "https://github.com/NANDANA-S-P",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MorrisMuuoMulitu",
+      "name": "Morris Mulitu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37964707?v=4",
+      "profile": "https://mulitu.me/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "DrKaoliN",
+      "name": "Mihail Mihalache",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1685316?v=4",
+      "profile": "https://github.com/DrKaoliN",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "RushikeshShelar",
+      "name": "Rushikesh Shelar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112684561?v=4",
+      "profile": "https://rushikeshshelar.github.io/Personal-Portfolio",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dipesh2508",
+      "name": "Dipesh Ranjan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90145046?v=4",
+      "profile": "https://github.com/dipesh2508",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "RaghavSaptam",
+      "name": "Raghav Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108785872?v=4",
+      "profile": "https://github.com/RaghavSaptam",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "azaynul10",
+      "name": "Zaynul Abedin Miah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111334392?v=4",
+      "profile": "https://github.com/azaynul10",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "R0hin999",
+      "name": "Rohin biyal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103902071?v=4",
+      "profile": "https://github.com/R0hin999",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "maida12",
+      "name": "Maida ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81500487?v=4",
+      "profile": "https://github.com/maida12",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "amritpalsingh52",
+      "name": "amritpalsingh52",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124516230?v=4",
+      "profile": "https://github.com/amritpalsingh52",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "thinkyhead",
+      "name": "Scott Lahteine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/698003?v=4",
+      "profile": "http://www.thinkyhead.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "marvhh",
+      "name": "Marvin Stark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14094080?v=4",
+      "profile": "https://github.com/marvhh",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Rocky-MPN",
+      "name": "Rocky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78936592?v=4",
+      "profile": "https://github.com/Rocky-MPN",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "adixoo",
+      "name": "Aditya Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124980341?v=4",
+      "profile": "https://github.com/adixoo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Kbpatel3",
+      "name": "Kaushal Patel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116056373?v=4",
+      "profile": "https://github.com/Kbpatel3",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "DheerajShrivastav",
+      "name": "Dheeraj Shrivastav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106469682?v=4",
+      "profile": "https://github.com/DheerajShrivastav",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}
