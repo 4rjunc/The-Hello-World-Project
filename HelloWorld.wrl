@@ -1,0 +1,5 @@
+Shape
+{
+ geometry Text
+ {string "Hello World!"}
+}
