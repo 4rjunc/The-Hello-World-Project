@@ -62,11 +62,11 @@ Let's make this collection rich with HelloWorld programs in various programming 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zteanes"><img src="https://avatars.githubusercontent.com/u/117319002?v=4?s=100" width="100px;" alt="Zach Eanes"/><br /><sub><b>Zach Eanes</b></sub></a><br /><a href="#code-zteanes" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Soumava-221B"><img src="https://avatars.githubusercontent.com/u/77767745?v=4?s=100" width="100px;" alt="Soumava-221B"/><br /><sub><b>Soumava-221B</b></sub></a><br /><a href="#code-Soumava-221B" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mathanraj0601"><img src="https://avatars.githubusercontent.com/u/98396468?v=4?s=100" width="100px;" alt="Mathanraj T"/><br /><sub><b>Mathanraj T</b></sub></a><br /><a href="#code-mathanraj0601" title="Code">💻</a></td>
-
-<tr>
-        <td align="center" valign="top" width="14.28%"><a href="https://jonyjas.com/"><img src="https://avatars.githubusercontent.com/u/74784363?v=4?s=100" width="100px;" alt="Jony Jas J"/><br /><sub><b>Jony Jas J</b></sub></a><br /><a href="#code-Jony-Jas" title="Code">💻</a></td>
-</tr>
-
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://jonyjas.com/"><img src="https://avatars.githubusercontent.com/u/74784363?v=4?s=100" width="100px;" alt="Jony Jas J"/><br /><sub><b>Jony Jas J</b></sub></a><br /><a href="#code-Jony-Jas" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/suravshrestha"><img src="https://avatars.githubusercontent.com/u/24486999?v=4?s=100" width="100px;" alt="Surav Shrestha"/><br /><sub><b>Surav Shrestha</b></sub></a><br /><a href="#code-suravshrestha" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
