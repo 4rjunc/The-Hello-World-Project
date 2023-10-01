@@ -64,7 +64,7 @@ Let's make this collection rich with HelloWorld programs in various programming 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mathanraj0601"><img src="https://avatars.githubusercontent.com/u/98396468?v=4?s=100" width="100px;" alt="Mathanraj T"/><br /><sub><b>Mathanraj T</b></sub></a><br /><a href="#code-mathanraj0601" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://jonyjas.com/"><img src="https://avatars.githubusercontent.com/u/74784363?v=4?s=100" width="100px;" alt="Jony Jas J"/><br /><sub><b>Jony Jas J</b></sub></a><br /><a href="#code-Jony-Jas" title="Code">💻</a></td>
 
-    </tr>
+
   </tbody>
 </table>
 
