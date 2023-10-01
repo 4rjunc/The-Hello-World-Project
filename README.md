@@ -20,7 +20,7 @@ This repository serves as a fun and educational resource to showcase the simplic
 ![bhai](https://img.shields.io/badge/bahi%20Lang-orange)  ![btm](https://img.shields.io/badge/4DOS-grey) ![COBOL](https://img.shields.io/badge/COBOL-white)  ![F](https://img.shields.io/badge/Fortran-violet)  ![Frink](https://img.shields.io/badge/Frink-yellow) ![hs](https://img.shields.io/badge/haskell-violet)
 ![lua](https://img.shields.io/badge/lua-black) ![pas](https://img.shields.io/badge/Pascal-green)  ![swift](https://img.shields.io/badge/swift-crimson)  ![zig](https://img.shields.io/badge/zig-orange)  ![Ada code](https://img.shields.io/badge/Ada%20Code-red)  ![sol](https://img.shields.io/badge/Solidity-grey)  ![i](https://img.shields.io/badge/Yarick-blue)  ![VRLM](https://img.shields.io/badge/Virtual%20Reality%20Modeling%20Language-yellow)  ![sol](https://img.shields.io/badge/Brain%20Fuck-grey) 
   ![CoffeeScript](https://img.shields.io/badge/Coffee%20Script-crimson)   ![carbon](https://img.shields.io/badge/Carbon-white)  ![mojo](https://img.shields.io/badge/MOJO-violet)
-  ![groovy](https://img.shields.io/badge/Groovy-yellow)   ![Snobol](https://img.shields.io/badge/Snobol-green)
+  ![groovy](https://img.shields.io/badge/Groovy-yellow)   ![Snobol](https://img.shields.io/badge/Snobol-green) ![elixir ](https://img.shields.io/badge/Elixir -violet)
 
 
 
