@@ -23,8 +23,9 @@ This repository serves as a fun and educational resource to showcase the simplic
   ![groovy](https://img.shields.io/badge/Groovy-yellow)   ![Snobol](https://img.shields.io/badge/Snobol-green) ![elixir ](https://img.shields.io/badge/Elixir-violet) 
 ![Prolog](https://img.shields.io/badge/Prolog-orange) ![D](https://img.shields.io/badge/D-green) ![NIM](https://img.shields.io/badge/NIM-Blue) ![perl](https://img.shields.io/badge/Perl-white) ![Action Script](https://img.shields.io/badge/Action%20Script-purple)  ![OCamel](https://img.shields.io/badge/OCamel-green) 
 ![Crystal](https://img.shields.io/badge/Crystal-Blue) ![Rexx](https://img.shields.io/badge/Rexx-yellow) ![TCL](https://img.shields.io/badge/TCL-green)  ![VB](https://img.shields.io/badge/Visual%20Basic-Blue) ![JULIA](https://img.shields.io/badge/Julia-red) ![VIM](https://img.shields.io/badge/VIMSCRIPT-Green) ![ERlang](https://img.shields.io/badge/ERLang-violet) ![Mercury](https://img.shields.io/badge/Mercury-GREY) ![MATLAB](https://img.shields.io/badge/MATLAB-grey)
-
-
+![Lean](https://img.shields.io/badge/Lean-orange) ![RED](https://img.shields.io/badge/RED-red) ![Pure Script](https://img.shields.io/badge/Pure%20Script-purple)
+ ![Bosque](https://img.shields.io/badge/Bosque-green)  ![Rebol](https://img.shields.io/badge/Rebol-crimson) <!-- ![Hopscotch](https://img.shields.io/badge/Hopscotch-white)--> ![Reason](https://img.shields.io/badge/Reason-black)  ![gleam](https://img.shields.io/badge/gleam-gold) ![CMAKE](https://img.shields.io/badge/CMAKE-purple) ![FoxPro](https://img.shields.io/badge/FoxPro-orange)  ![AWK](https://img.shields.io/badge/AWK-green) ![arduino](https://img.shields.io/badge/arduino-blue) ![ksh](https://img.shields.io/badge/KSH-grey) 
+<!-- ![RING](https://img.shields.io/badge/Ring-gold) -->  
 
 
 Read [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on contributing.
