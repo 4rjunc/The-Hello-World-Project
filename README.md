@@ -22,7 +22,7 @@ This repository serves as a fun and educational resource to showcase the simplic
   ![CoffeeScript](https://img.shields.io/badge/Coffee%20Script-crimson)   ![carbon](https://img.shields.io/badge/Carbon-white)  ![mojo](https://img.shields.io/badge/MOJO-violet)
   ![groovy](https://img.shields.io/badge/Groovy-yellow)   ![Snobol](https://img.shields.io/badge/Snobol-green) ![elixir ](https://img.shields.io/badge/Elixir-violet) 
 ![Prolog](https://img.shields.io/badge/Prolog-orange) ![D](https://img.shields.io/badge/D-green) ![NIM](https://img.shields.io/badge/NIM-Blue) ![perl](https://img.shields.io/badge/Perl-white) ![Action Script](https://img.shields.io/badge/Action%20Script-purple)  ![OCamel](https://img.shields.io/badge/OCamel-green) 
-![Crystal](https://img.shields.io/badge/Crystal-Blue) ![Rexx](https://img.shields.io/badge/Rexx-yellow) ![TCL](https://img.shields.io/badge/TCL-green) ![MATLAB(https://img.shields.io/badge/MATLAB-grey) ![VB](https://img.shields.io/badge/Visual%20Basic-Blue) ![JULIA](https://img.shields.io/badge/Julia-red) ![VIM](https://img.shields.io/badge/VIMSCRIPT-Green) ![ERlang](https://img.shields.io/badge/ERLang-violet) ![Mercury](https://img.shields.io/badge/Mercury-GREY)
+![Crystal](https://img.shields.io/badge/Crystal-Blue) ![Rexx](https://img.shields.io/badge/Rexx-yellow) ![TCL](https://img.shields.io/badge/TCL-green)  ![VB](https://img.shields.io/badge/Visual%20Basic-Blue) ![JULIA](https://img.shields.io/badge/Julia-red) ![VIM](https://img.shields.io/badge/VIMSCRIPT-Green) ![ERlang](https://img.shields.io/badge/ERLang-violet) ![Mercury](https://img.shields.io/badge/Mercury-GREY) ![MATLAB(https://img.shields.io/badge/MATLAB-grey)
 
 
 
