@@ -1,0 +1,5 @@
+export function main<args>
+{
+    print("Hello, world!\n");
+    return 0;
+}
