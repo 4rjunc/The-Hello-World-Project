@@ -75,6 +75,9 @@ Let's make this collection rich with HelloWorld programs in various programming 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dashing-dev"><img src="https://avatars.githubusercontent.com/u/93391951?v=4?s=100" width="100px;" alt="Sanjay Bhandari"/><br /><sub><b>Sanjay Bhandari</b></sub></a><br /><a href="#code-dashing-dev" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Manveer-Pbx1"><img src="https://avatars.githubusercontent.com/u/70777863?v=4?s=100" width="100px;" alt="Manveer Singh Saggu"/><br /><sub><b>Manveer Singh Saggu</b></sub></a><br /><a href="#code-Manveer-Pbx1" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://detagraha.net"><img src="https://avatars.githubusercontent.com/u/62296958?v=4?s=100" width="100px;" alt="Gede Putra Nugraha"/><br /><sub><b>Gede Putra Nugraha</b></sub></a><br /><a href="#code-Putnug1122" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
