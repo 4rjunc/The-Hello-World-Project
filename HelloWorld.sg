@@ -1,0 +1,6 @@
+class HELLO_WORLD is
+  main is
+    # Output "Hello, World!"
+    stdout << "Hello, World!" << newline
+  end
+end
