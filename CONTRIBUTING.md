@@ -11,6 +11,7 @@ We welcome contributions from developers to expand this collection. Here are the
 ```bash
 git clone https://github.com/your-username/The-Hello-World-Project.git
 ```
+[Gideon Kipkorir Yegon](https://github.com/gideonyegon404)
 - 🛠 **Add a new program**: Create a new file with the HelloWorld program in the desired programming language using the naming convention mentioned above.
 
 - 🚀 **Commit and push**: Commit your changes and push them to your forked repository:
