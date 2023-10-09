@@ -1,0 +1,4 @@
+use PDL;
+
+my $message = 'Hello, World!';
+print "$message\n";
