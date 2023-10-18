@@ -79,6 +79,7 @@ Let's make this collection rich with HelloWorld programs in various programming 
       <td align="center" valign="top" width="14.28%"><a href="http://detagraha.net"><img src="https://avatars.githubusercontent.com/u/62296958?v=4?s=100" width="100px;" alt="Gede Putra Nugraha"/><br /><sub><b>Gede Putra Nugraha</b></sub></a><br /><a href="#code-Putnug1122" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://sarveshportfolio.weebly.com/"><img src="https://avatars.githubusercontent.com/u/92908500?v=4?s=100" width="100px;" alt="Sarvesh Gupta"/><br /><sub><b>Sarvesh Gupta</b></sub></a><br /><a href="#code-Sarvesh223" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/itzpiyushjindal"><img src="https://avatars.githubusercontent.com/u/122971243?v=4?s=100" width="100px;" alt="itzpiyushjindal"/><br /><sub><b>itzpiyushjindal</b></sub></a><br /><a href="#code-itzpiyushjindal" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://linktr.ee/vishalkrishna"><img src="https://avatars.githubusercontent.com/u/121739011?v=4?s=100" width="100px;" alt="Vishal Krishna"/><br /><sub><b>Vishal Krishna</b></sub></a><br /><a href="#code-vishalkrishna8" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
