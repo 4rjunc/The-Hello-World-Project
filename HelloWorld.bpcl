@@ -1,0 +1,5 @@
+GET "libhdr/sym/stdio.b";
+
+LET start() = VALOF
+  Printf("Hello, World!\n") RESULTIS 0
+RESULTIS start
