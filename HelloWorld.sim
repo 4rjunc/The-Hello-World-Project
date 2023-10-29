@@ -1,0 +1,8 @@
+# Hello World Program for Simula
+
+Begin
+    while 1=1 do begin
+          outtext("Hello World!);
+          outimage;
+    end;
+End;
