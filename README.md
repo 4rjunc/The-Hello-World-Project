@@ -82,6 +82,7 @@ Let's make this collection rich with HelloWorld programs in various programming 
       <td align="center" valign="top" width="14.28%"><a href="https://linktr.ee/vishalkrishna"><img src="https://avatars.githubusercontent.com/u/121739011?v=4?s=100" width="100px;" alt="Vishal Krishna"/><br /><sub><b>Vishal Krishna</b></sub></a><br /><a href="#code-vishalkrishna8" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vivekBoii"><img src="https://avatars.githubusercontent.com/u/115945472?v=4?s=100" width="100px;" alt="Vivek Kumar"/><br /><sub><b>Vivek Kumar</b></sub></a><br /><a href="#code-vivekBoii" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://ankit-poudel.com.np"><img src="https://avatars.githubusercontent.com/u/108212023?v=4?s=100" width="100px;" alt="Ankit Poudel"/><br /><sub><b>Ankit Poudel</b></sub></a><br /><a href="#code-ankman007" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://amritregmi.com.np"><img src="https://avatars.githubusercontent.com/u/107292672?v=4?s=100" width="100px;" alt="Amrit Regmi"/><br /><sub><b>Amrit Regmi</b></sub></a><br /><a href="#code-amritregmi26" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
